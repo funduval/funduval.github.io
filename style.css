@@ -1,0 +1,64 @@
+
+
+
+    h1 {
+        font-size: 28px;
+        color: #eee;
+        text-align: center;
+        padding: 20px;
+        margin: auto;
+    }
+
+    h2{
+        
+        font-size: 24px;
+        text-indent: 40px;
+    }
+    h3 {
+
+       text-indent: 41px;
+        font-size: 24px;
+
+    }
+    
+    #bio-image {
+        float:left;
+        width: 18%;
+        margin: 0px 40px;
+        
+    }
+    
+    
+    #main-bio{
+        overflow: auto;
+        float: left;
+        width: 35%;
+        
+        
+    }
+    
+    #contact-info {
+        
+        overflow: auto;
+        float: left;
+        width: 38%;
+        margin: 0px 4px;
+        
+    }
+    
+    #header{
+        text-align: center;
+        background-color: #333333;
+    }
+    
+    body {
+        
+        margin: 0;
+        padding: 0;
+        background-color: #efeee7;
+        font:"Georgia",Times New Roman,Times,serif;
+        color:#333333;
+
+    }
+    
+   
